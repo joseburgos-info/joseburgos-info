@@ -4,7 +4,7 @@
 ---
 
 🎓 **Formación**
-- Máster en Ciberseguridad · Universidad de Alicante *(E2024–2025)*
+- Máster en Ciberseguridad · Universidad de Alicante *(2024–2025)*
 - Grado en Ingeniería Informática · UA · Grupo de Alto Rendimiento Académico *(2020–2024)*
 
 🔐 **Intereses principales**
