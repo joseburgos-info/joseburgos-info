@@ -83,7 +83,7 @@
 - 📧 joseburgos.info@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/joséburgos)  
 - 💻 [GitHub](https://github.com/joseburgos-info)  
-- 📄 [CV (PDF)](https://github.com/joseburgos-info/portfolio/CV-JoseBurgosMiras.pdf)
+- 📄 [CV (PDF)](https://github.com/joseburgos-info/portfolio/CV-JoséBurgosMiras.pdf)
 
 ---
 
