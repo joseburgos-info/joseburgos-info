@@ -1,17 +1,17 @@
 <h1 align="center">Hola 👋, soy José Burgos Miras</h1>
-<h3 align="center">Ingeniero Informático | Especializado en Ciberseguridad y Cloud</h3>
+<h3 align="center">Ingeniero Informático | Especializado en Ciberseguridad</h3>
 
 ---
 
 🎓 **Formación**
-- Máster en Ciberseguridad · Universidad de Alicante *(En curso, 2024–2025)*
+- Máster en Ciberseguridad · Universidad de Alicante *(E2024–2025)*
 - Grado en Ingeniería Informática · UA · Grupo de Alto Rendimiento Académico *(2020–2024)*
 
 🔐 **Intereses principales**
 - Ciberseguridad ofensiva y defensiva
 - Infraestructura cloud segura (AWS)
-- Visión por computador e IA aplicada a seguridad
-- Automatización, DevOps y scripting en Linux
+- Deep Learning e IA aplicada a seguridad
+- Seguridad de sistemas: hardening, configuración de firewalls y buenas prácticas
 
 ---
 
@@ -78,7 +78,7 @@
 
 - 📧 joseburgos.info@gmail.com  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/joséburgos)  
-- 💻 [GitHub](https://github.com/jbm97-ua)  
+- 💻 [GitHub](https://github.com/joseburgos-info)  
 - 📄 [CV (PDF)](https://github.com/jbm97-ua/portfolio/blob/main/CV-JoseBurgos.pdf)
 
 ---
